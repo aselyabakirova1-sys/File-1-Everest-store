@@ -1,0 +1,8 @@
+{
+  "name": "Everest Phone Shop | Premium Tech Osh",
+  "description": "The peak of mobile technology in Osh. Located in Urban Mall, Everest offers official smartphones from Apple, Samsung, and more. Visit us for Trade-In and expert consulting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
